@@ -84,7 +84,7 @@ export default function Home() {
       {/* Hero Section */}
       <div ref={heroRef} className="relative h-screen w-full">
         <Image
-          src="/images/taragarh 2.jpg"
+          src="/images/taragarh-2.jpg"
           alt="Taragarh fort"
           fill
           priority
